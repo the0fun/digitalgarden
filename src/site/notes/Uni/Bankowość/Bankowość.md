@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/bankowosc/bankowosc/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/uni/bankowosc/bankowosc/","tags":["gardenEntry"],"created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:23:44.246+02:00"}
 ---
 
 

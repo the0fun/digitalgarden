@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/stopy-procentowe/"}
+{"dg-publish":true,"permalink":"/trash/stopy-procentowe/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:32:35.330+02:00"}
 ---
 
 Dobre źródła

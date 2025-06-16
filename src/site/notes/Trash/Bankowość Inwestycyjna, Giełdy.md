@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/bankowosc-inwestycyjna-gieldy/"}
+{"dg-publish":true,"permalink":"/trash/bankowosc-inwestycyjna-gieldy/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:34:30.262+02:00"}
 ---
 
 **GPW**

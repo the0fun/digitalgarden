@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/bankowy-fundusz-gwarancyjny-bfg/"}
+{"dg-publish":true,"permalink":"/trash/bankowy-fundusz-gwarancyjny-bfg/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:34:07.924+02:00"}
 ---
 
 działa na rzecz stabilności krajowego systemu finansowego: gwarantuje depozyty

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/bankowosc-background-i-historia/"}
+{"dg-publish":true,"permalink":"/trash/bankowosc-background-i-historia/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:32:03.782+02:00"}
 ---
 
 **Pierwszy Bank** - Bank w Wenecji w 1156 roku

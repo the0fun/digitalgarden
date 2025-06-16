@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/fundusz-inwestycyjny/"}
+{"dg-publish":true,"permalink":"/trash/fundusz-inwestycyjny/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:35:01.482+02:00"}
 ---
 
 

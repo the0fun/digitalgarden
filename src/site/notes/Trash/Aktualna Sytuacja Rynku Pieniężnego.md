@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/aktualna-sytuacja-rynku-pienieznego/"}
+{"dg-publish":true,"permalink":"/trash/aktualna-sytuacja-rynku-pienieznego/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:32:17.058+02:00"}
 ---
 
 [[Uni/Bankowość/Bankowość\|Bankowość]]

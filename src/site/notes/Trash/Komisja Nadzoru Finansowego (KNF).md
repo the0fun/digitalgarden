@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/komisja-nadzoru-finansowego-knf/"}
+{"dg-publish":true,"permalink":"/trash/komisja-nadzoru-finansowego-knf/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:34:01.748+02:00"}
 ---
 
 Komisja Nadzoru Finansowego sprawuje nadzór nad sektorem bankowym, rynkiem kapitałowym, ubezpieczeniowym, emerytalnym, nadzór nad instytucjami płatniczymi i biurami usług płatniczych, instytucjami pieniądza elektronicznego oraz sektorem kas spółdzielczych.

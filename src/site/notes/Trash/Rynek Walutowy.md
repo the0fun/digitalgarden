@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/rynek-walutowy/"}
+{"dg-publish":true,"permalink":"/trash/rynek-walutowy/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:34:39.228+02:00"}
 ---
 
 

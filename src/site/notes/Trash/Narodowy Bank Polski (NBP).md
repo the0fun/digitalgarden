@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trash/narodowy-bank-polski-nbp/"}
+{"dg-publish":true,"permalink":"/trash/narodowy-bank-polski-nbp/","created":"1970-01-01T01:00:00.000+01:00","updated":"2025-06-16T12:32:11.136+02:00"}
 ---
 
 **Konstytucyjne zadania NBP**
